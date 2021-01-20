@@ -13,7 +13,7 @@ jobs:
          uses: actions/checkout@master
        
        - name: Clone Dumper Source Code
-         run: git clone https://github.com/AndroidDump/dumper
+         run: git clone https://github.com/SuperCosmicBeing/dumper
        
        - name: Setting up Dumper requirements
          run: |
