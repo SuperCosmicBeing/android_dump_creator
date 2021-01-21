@@ -3,7 +3,7 @@ name: Building Dump
 on: [push]
 
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.16.0.QDLMIXM/miui_DAISYGlobal_V11.0.16.0.QDLMIXM_23a65a76bc_10.0.zip
+  ROM_URL: https://bigota.d.miui.com/V11.0.17.0.QDLMIXM/miui-blockota-daisy_global-V11.0.16.0.QDLMIXM-V11.0.17.0.QDLMIXM-751fc7b516-10.0.zip
 jobs:
   build:
     runs-on: ubuntu-20.04
