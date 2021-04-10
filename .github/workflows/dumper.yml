@@ -3,7 +3,7 @@ name: Building Dump
 on: [push]
 
 env:
-  ROM_URL: https://tdrive.elytra8.workers.dev/DerpFest-11-Official-Alpha-sakura-20210124-0630.zip
+  ROM_URL: https://bigota.d.miui.com/V11.0.18.0.QDLMIXM/miui_DAISYGlobal_V11.0.18.0.QDLMIXM_faa4bc755a_10.0.zip
 jobs:
   build:
     runs-on: ubuntu-20.04
